@@ -1,0 +1,38 @@
+*{
+	border:0;
+	margin:0px;
+	padding:0px;
+}
+body{
+	background: #444;
+	color:#fff;
+}
+header{
+	height:70px;
+	background: #000;	
+}
+header h1{
+	font-size:40px;
+	text-align:center;
+	line-height:70px;
+}
+#svg{
+  position: relative;
+  width: 100%;
+  height: 490px;
+  overflow-y: scroll;
+  pointer-events: auto;
+
+
+}
+footer {
+	background: #000;
+	height: 40px;
+	clear: both;
+}
+footer h2{
+	font-size:20px;
+	text-align:center;
+	line-height:40px;
+}
+
